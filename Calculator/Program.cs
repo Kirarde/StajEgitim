@@ -26,8 +26,8 @@ while (tekrar == "E")
         sayi2 = Console.ReadLine();
         
     }
-    Double rakam1 = Convert.ToDouble(sayi1);
-    Double rakam2 = Convert.ToDouble(sayi2);
+    double rakam1 = Convert.ToDouble(sayi1);
+    double rakam2 = Convert.ToDouble(sayi2);
 
     
     Console.WriteLine("Yapmak istediğiniz işlemi seçiniz:");
